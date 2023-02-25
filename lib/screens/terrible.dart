@@ -14,3 +14,7 @@ class _MyWidgetState extends State<MyWidget> {
     return const Placeholder();
   }
 }
+
+class Open {
+ String Abirami = "Valentina";
+}

@@ -17,4 +17,5 @@ class _MyWidgetState extends State<MyWidget> {
 
 class Open {
  String Abirami = "Valentina";
+ String VAlentij = "f";
 }
